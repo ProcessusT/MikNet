@@ -1,17 +1,16 @@
 # MikNet
-<br>
 <div align="center">
   <br>
   <h3>Autonomous red team implementation allowing sound capture and broadcast through an untraceable front-end server to the attacker's station</h3>
   <br>
-  <img src="https://github.com/ProcessusT/MikNet/raw/main/.assets/demo.jpg" width="80%;">
+  <img src="https://github.com/ProcessusT/MikNet/raw/main/.assets/demo.jpg" width="50%;">
 </div>
 <br>
 
 ## Presentation
 <br>
 Video tutorial here : <br>
-<a href="https://www.youtube.com/watch?v=ItqIIutcaK0"><img src="https://github.com/ProcessusT/MikNet/raw/main/.assets/cover.png" width="50%"></a>
+<a href="https://www.youtube.com/watch?v=ItqIIutcaK0"><img src="https://github.com/ProcessusT/MikNet/raw/main/.assets/cover.png" width="40%"></a>
 <br><br>
 
 ## Hardware
