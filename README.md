@@ -1,23 +1,17 @@
 # MikNet
-
+<br>
 <div align="center">
   <br>
-  <img src="https://img.shields.io/badge/Python-3.11-informational">
+  <h3>Autonomous red team implementation allowing sound capture and broadcast through an untraceable front-end server to the attacker's station</h3>
   <br>
-  <a href="https://twitter.com/intent/follow?screen_name=ProcessusT" title="Follow"><img src="https://img.shields.io/twitter/follow/ProcessusT?label=ProcessusT&style=social"></a>
-</div>
-
- 
-> Autonomous red team implementation allowing sound capture and broadcast through an untraceable front-end server to the attacker's station
-<br><br>
-<div align="center">
-<img src="https://github.com/ProcessusT/MikNet/raw/main/.assets/demo.jpg" width="80%;">
+  <img src="https://github.com/ProcessusT/MikNet/raw/main/.assets/demo.jpg" width="80%;">
 </div>
 <br>
 
 ## Presentation
 <br>
-Video tutorial here : <a href="https://www.youtube.com/watch?v=ItqIIutcaK0">https://www.youtube.com/watch?v=ItqIIutcaK0</a>
+Video tutorial here : <br>
+<a href="https://www.youtube.com/watch?v=ItqIIutcaK0"><img src="https://github.com/ProcessusT/MikNet/raw/main/.assets/cover.png" width="50%"></a>
 <br><br>
 
 ## Hardware
